@@ -1,0 +1,53 @@
+
+.big{
+	width: 300px;
+	height: 300px;
+	position: relative;
+	display: block;
+	margin: 10px;
+
+}
+
+.medium{
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	left: 70px;
+	bottom:70px;
+}
+.little{
+	width: 75px;
+	height: 75px;
+}
+
+
+
+
+.rojo{
+	background: red;
+	
+
+}
+.morado{
+	background: purple;
+	
+	
+}
+.amarillo{
+	background: yellow;
+	
+}
+.azul{
+	background: blue;
+
+
+}
+.verde{
+	background: green;
+	
+
+}
+.negro{
+	background: black;
+	float: left;
+}
